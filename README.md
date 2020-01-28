@@ -127,6 +127,7 @@ Recommendations:
 
 # installation
 
+```
 ####################################################################
 
 
@@ -152,12 +153,14 @@ nished installation successfully.
   After you figure out the source of the issue, it is a good practice to \"rm -r\" the directory containing the failed installation attempt, before re
 -running.
 ####################################################################
-
+```
 
 
 
 
 # usage
+
+```
 ####################################################################
 
 
@@ -257,3 +260,4 @@ nished installation successfully.
 				- A tblastn-like usage for Minimap2 would be incredible
 
 
+```
