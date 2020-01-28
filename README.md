@@ -2,6 +2,7 @@
 An automated pipeline for genome assembly evaluations using SLURM.
 John Urban (2013-2020)
 
+`
 ####################################################################
 
 
@@ -15,7 +16,7 @@ John Urban (2013-2020)
 
 
 ####################################################################
-
+`
 
 
 Dependencies (not included):
