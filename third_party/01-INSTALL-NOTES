@@ -1,0 +1,25 @@
+NEED IN ENV FOR INSTALL AND RUNNING:
+- gcc/g++
+- Boost (I've had success with v1.55.0)
+- cmake ("" 3.10.1)
+- zlib ("" 1.2.11)
+- hdf5
+- python
+- perl
+- R
+- git
+- java ("" 8u66, 8u111)
+- readlink on Linux (s.t. readlink -f gives absolute path of a file)
+- greadlink on MacOS (s.t. greadlink -f gives absolute path of a file)
+
+You will typically need the same versions in the ENV for running that you used to install.
+I've provided a copy of boost here just in case, but it will not be part of the normal INSTALL.
+
+
+- Bamtools everywhere -- many programs include their own copy (similar with SAMtools)
+	- BAMtools is provided stand-alone for Augustus
+	- FRC has its own BAMtools
+	- REAPR has its own BAMtools
+	- Sniffles has its own BAMtools
+	- BEDtools has its own BAMtools
+	- FreeBayes has its own BAMtools (if I end up including this program in future analyses)
