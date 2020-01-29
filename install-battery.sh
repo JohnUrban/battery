@@ -80,6 +80,8 @@ echo "
 if ${FORCE}; then FORCE="force"; fi
 if ${FORCEBOOST}; then FORCEBOOST=force; fi
 
+
+mkdir -p configs
 cd third_party
 bash check-prerequisites.sh ${FORCEBOOST}
 bash install-all.sh ${FORCE}
