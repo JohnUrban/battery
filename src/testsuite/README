@@ -1,0 +1,17 @@
+To populate directories with assemblies and simulated data - as well as creat evals dir, do:
+$ bash generate.sh
+
+After running this, cd into "evals/" and do:
+$ bash run-evalwrapper.sh input.fofn
+
+Or wait until assemblies are done to do:
+$ bash run-evalwrapper.sh input.extended.fofn
+
+#NOTE: assemblies will only run if you are on SLURM and have sbatch....
+
+#NOTE: you may have to modify paths in run-evalwrapper.sh if you are not JohnUrban on Oscar.
+
+To reset, do:
+$ bash reset.sh
+
+

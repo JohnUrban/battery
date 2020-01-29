@@ -1,0 +1,13 @@
+/gpfs/scratch/jurban/longreaddevo/asms/refs/01-ecoligenome/01-ecoli_k12_mg1655_NC_000913.3.fasta
+/gpfs/scratch/jurban/longreaddevo/asms/refs/02-snpdecoligenome/02-ecoli-snpd-genome.fasta
+/gpfs/scratch/jurban/longreaddevo/asms/refs/03-mutatedecoligenome/03-ecoli.mutated.fasta
+/gpfs/scratch/jurban/longreaddevo/asms/refs/04-fragmentedmutatedecoligenome/04-ecoli-fragmented-mutated-genome.fasta
+/gpfs/scratch/jurban/longreaddevo/asms/refs/05-morefragmentedmutatedecoligenome/05-ecoli-more-fragmented-mutated-genome.fasta
+/gpfs/scratch/jurban/longreaddevo/evals/denovo/abruijn.pb.fasta
+/gpfs/scratch/jurban/longreaddevo/evals/denovo/abruijn.pbont.fasta
+/gpfs/scratch/jurban/longreaddevo/evals/denovo/dbg2olc.pb.fasta
+/gpfs/scratch/jurban/longreaddevo/evals/denovo/dbg2olc.pbont.fasta
+/gpfs/scratch/jurban/longreaddevo/evals/denovo/miniasm.pb.fasta
+/gpfs/scratch/jurban/longreaddevo/evals/denovo/miniasm.pbont.fasta
+/gpfs/scratch/jurban/longreaddevo/evals/denovo/miniasm.racon.pb.fasta
+/gpfs/scratch/jurban/longreaddevo/evals/denovo/miniasm.racon.pbont.fasta

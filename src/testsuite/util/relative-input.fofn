@@ -1,0 +1,6 @@
+./asms/refs/01-ecoligenome/01-ecoli_k12_mg1655_NC_000913.3.fasta
+./asms/refs/02-snpdecoligenome/02-ecoli-snpd-genome.fasta
+./asms/refs/03-mutatedecoligenome/03-ecoli.mutated.fasta
+./asms/refs/04-fragmentedmutatedecoligenome/04-ecoli-fragmented-mutated-genome.fasta
+./asms/refs/05-mutatefragmentedgenomemore/05-ecoli.mutate-frag-mutate.fasta
+./asms/refs/06-mostfragmentedmutatedecoligenome/06-ecoli-most-fragmented-and-mutated-genome.fasta
