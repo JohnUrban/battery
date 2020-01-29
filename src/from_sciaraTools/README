@@ -1,0 +1,20 @@
+The tools in this directory are from another github repo I have:
+	- https://github.com/JohnUrban/sciara-project-tools
+
+I copied them here on Oct 18, 2018 - to package them with Battery so it is self-sufficient.
+However, any further development of these tools will not occur here.
+Further development of these tools will occur in SciaraTools unless otherwise noted there.
+Updates will be copied here as needed.
+
+
+
+EXCEPT FOR (AT THE MOMENT):
+prepare_bng_or_nabsys_for_maligner.sh
+example_map_data/
+
+
+
+## I INCLUDED THE FOLLOWING WITH BATTERY AS I CAN INSTRUCT USERS HOW TO PROVIDE MAP DATA FROM BOTH SOURCES
+		# UNLIKELY BUT I COULD ALSO ADD CONVERSION TO THE BEGINNING OF THE PIPELINE
+bnx2maligner.py
+nabsys2maligner.py
